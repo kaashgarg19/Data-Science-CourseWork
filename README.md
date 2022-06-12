@@ -9,7 +9,7 @@ In this study, we will be implemented Machine Learning Algorithms to predict dia
 We will quantify a few components of the diamond that influence the cost and nature of the diamonds.
 An examination of the consequences of various regression algorithms is performed to comprehend which one perform better for our taking.
     
-    <BR>
+<BR>
 <BR>
 
 RESULT: Random Forest Regressor Algorithm with cross-validation gives the least value of RMSE error and gives highest accuracy score of [98%] after model tuning.
