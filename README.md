@@ -2,10 +2,15 @@
 DIAMOND PRICE PERDECTION USING ML ALGOS..
 The prediction of diamond price based on numerous components that influence the price of a diamond.
 INTRODUCTION about CourseWork:
+<BR>
 The dataset used for prediction task is chosen from  Kaggle repository. 
+  <BR>
 In this study, we will be implemented Machine Learning Algorithms to predict diamond price with their given features.
 We will quantify a few components of the diamond that influence the cost and nature of the diamonds.
 An examination of the consequences of various regression algorithms is performed to comprehend which one perform better for our taking.
+    
+    <BR>
+<BR>
 
 RESULT: Random Forest Regressor Algorithm with cross-validation gives the least value of RMSE error and gives highest accuracy score of [98%] after model tuning.
 ![image](https://user-images.githubusercontent.com/103975775/173254990-8e6a00c4-7c6b-4a75-8f95-7e81e9404baf.png)
