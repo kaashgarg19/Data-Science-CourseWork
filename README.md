@@ -1,8 +1,8 @@
-# Data Science Coursework
+# Data Science Coursework 1
 
-## Diamond Price Prediction using Machine Learning
+## Diamond Price Prediction
 
-A machine-learning coursework project that explores how different diamond features relate to price and compares regression models for price prediction.
+A machine-learning coursework project exploring how diamond features relate to price and using regression models to predict diamond prices.
 
 ## What I worked on
 
@@ -23,10 +23,11 @@ A machine-learning coursework project that explores how different diamond featur
 
 ## Dataset
 
-The dataset used for this project was obtained from Kaggle.
+The project uses a diamond dataset obtained from Kaggle.
 
-## Results
+## Files
 
-The project compares different regression models using error and model-performance measures. Random Forest Regressor performed well in the original coursework after tuning.
+- [AmanGupta.py](AmanGupta.py) — main Python implementation
+- [diamonds.csv](diamonds.csv) — dataset used by the project
 
-The original project images and analysis are included in the repository.
+The results are based on the original coursework analysis. Performance should be interpreted using regression metrics rather than classification accuracy.
