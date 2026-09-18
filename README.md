@@ -1,28 +1,31 @@
-# Data Science Coursework 1
+# Data Science Coursework 1 — Diamond Price Prediction
 
-## Diamond Price Prediction
-
-This was one of my data-science coursework projects. I used a diamond dataset to explore which features were related to price and to build regression models for price prediction.
+This is one of my MSc data-science coursework projects. I used a diamond dataset to explore the variables associated with price and to practise regression modelling.
 
 ## What I worked on
-- Inspecting and cleaning the data
-- Exploring the variables and their relationships
-- Creating visualisations
-- Preparing features for modelling
-- Training regression models
-- Comparing model results
+
+- loading and checking the dataset
+- cleaning and preparing variables
+- exploring relationships between features
+- creating visualisations
+- preparing data for regression
+- training and comparing regression models
+
+## Files
+
+- [AmanGupta.py](AmanGupta.py) — main Python implementation
+- [diamonds.csv](diamonds.csv) — dataset used for the coursework
 
 ## Tools
+
 Python · Pandas · NumPy · Matplotlib · Scikit-learn
 
 ## Dataset
 
-The project uses a diamond dataset obtained from Kaggle. The dataset is kept in the repository with the original coursework files.
-
-## Files
-- [AmanGupta.py](AmanGupta.py) — main Python implementation
-- [diamonds.csv](diamonds.csv) — dataset used by the project
+The repository contains the dataset used for the coursework. The dataset is third-party material and is included here as it was used in the original project; its ownership is not being claimed by me.
 
 ## Project note
 
-This is original coursework and is presented as part of my learning history. The results should be read in the context of the coursework dataset and modelling choices rather than as a general price-prediction system.
+This is coursework rather than a production pricing model. The results belong to the dataset and modelling choices used for the assignment.
+
+I have kept the original Python file rather than rewriting the project just to make it look newer. The aim of this repository is to show the work as it was actually done.
